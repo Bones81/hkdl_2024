@@ -74,10 +74,6 @@ const FTF = () => {
           please prioritize what Disney or Goode Time says. Everything is
           subject to change!
         </h4>
-        <h3>
-          Click on the hamburger menu in the upper right portion of the window
-          to quickly navigate between sections of this site! &#8599;
-        </h3>
       </section>
     );
 }

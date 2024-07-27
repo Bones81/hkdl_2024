@@ -1,4 +1,18 @@
+import React, { useEffect } from 'react';
+import { useLocation, Link } from 'react-router-dom';
+
 const FTF = () => {
+    const location = useLocation();
+
+    useEffect(() => {
+      if (location.hash) {
+        const element = document.querySelector(location.hash);
+        if (element) {
+          element.scrollIntoView({ behavior: 'smooth' });
+        }
+      }
+    }, [location]);
+
     return (
       <section id="top">
         <div className="img-holder">
@@ -8,29 +22,12 @@ const FTF = () => {
           />
         </div>
         <h2 className="special-note">
-          Welcome Katie, Sarah, Johnny, and Omar! And welcome back, Chelsea!!
+          Welcome Brian, Cesare, Donna, Jason, Rebekah, and Kelsey!!
           <br />
           <br />
-          Latest changes, 9/13/23: Added link to{" "}
-          <a href="#best-hiking-trails">
-            the 13 Best Hiking Trails in Hong Kong
-          </a>
-          ! 🥾⛰️
+          Latest changes, 7/27/24: First 2024 update!
           <br />
           <br />
-          Also added a sub-section on{" "}
-          <a href="#custom-tailoring">custom-tailored clothing</a>.
-          <br />
-          <br />
-          8/22/2023: Added <a href="#top-bars-and-clubs">
-            Top Bars and Clubs
-          </a>{" "}
-          video!
-          <br />
-          <br />
-          8/14/2023: Two summary YouTube videos added covering{" "}
-          <a href="#hk-food-video">iconic HK food</a> and{" "}
-          <a href="#top-things-to-do">top things to do</a> in HK!
         </h2>
         <h2 className="section-title" id="first">
           First Things First
@@ -56,8 +53,8 @@ const FTF = () => {
           collects and organizes as much of that info as possible.
         </p>
         <h3 className="special-note">
-          I've done my best to update everything on this site for 2023. That
-          said, you may well encounter information that is leftover from 2022,
+          I've done my best to update everything on this site for 2024. That
+          said, you may well encounter information that is leftover from 2023,
           or possibly even earlier. If anything seems out-of-date, it may well
           be. Let your friendly webmaster Nathan know if anything is clearly
           inaccurate.

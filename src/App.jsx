@@ -29,26 +29,6 @@ const App = () => {
       <div>
         <div id='tree-background'></div>
         <Header />
-        <nav>
-          <ul>
-            <li><Link to="/">FTF</Link></li>
-            <li><Link to="/documents">Documents</Link></li>
-            <li><Link to="/covid">Covid</Link></li>
-            <li><Link to="/flying">Flying</Link></li>
-            <li><Link to="/voting">Voting</Link></li>
-            <li><Link to="/housing">Housing</Link></li>
-            <li><Link to="/food">Food</Link></li>
-            <li><Link to="/transportation">Transportation</Link></li>
-            <li><Link to="/money">Money</Link></li>
-            <li><Link to="/communication">Communication</Link></li>
-            <li><Link to="/health">Health</Link></li>
-            <li><Link to="/performance">Performance</Link></li>
-            <li><Link to="/costumes-hmu">Costumes, Hair/Makeup</Link></li>
-            <li><Link to="/leisure">Leisure</Link></li>
-            <li><Link to="/packing">Packing</Link></li>
-            {/* Add more links for other components */}
-          </ul>
-        </nav>
         <Routes>
           <Route path='/'  element={<FTF/>} />
           <Route path='/documents' element={<Documents/>} />

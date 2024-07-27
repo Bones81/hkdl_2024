@@ -23,8 +23,8 @@ const Footer = () => {
             
             
             <h3>Only because it was requested, here are the Disney <em>acappella</em> parodies I put together in the first months of the pandemic:</h3> 
-            <iframe width="560" height="315" loading='lazy' src="https://www.youtube.com/embed/a_XCrClEFvE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title='Disney parody video Social Distance'></iframe>
-            <iframe width="560" height="315" loading='lazy' src="https://www.youtube.com/embed/ljtlm2LYiLo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title='Disney parody video Best If You Stay Home'></iframe>
+            <iframe width="560" height="315" loading='lazy' src="https://www.youtube.com/embed/a_XCrClEFvE" frameorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen title='Disney parody video Social Distance'></iframe>
+            <iframe width="560" height="315" loading='lazy' src="https://www.youtube.com/embed/ljtlm2LYiLo" frameorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen title='Disney parody video Best If You Stay Home'></iframe>
         </footer>
     )
 }

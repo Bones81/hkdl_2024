@@ -111,7 +111,7 @@ h1 {
 
 @media (min-width: 640px) and (min-height: 750px) {
     .nav-item {
-        font-size: 1.5em;
+        font-size: 1.25em;
     }
 }
 

@@ -49,22 +49,6 @@ const Header = () => {
                         {/* Add more links for other components */}
                     </ul>
                 </nav>
-                <ul id="navbar">
-                    <li className="nav-item"><a href="#first" onClick={toggleMenu}>First Things First</a></li>
-                    <li className="nav-item"><a href="#documents" onClick={toggleMenu}>Documents</a></li>
-                    <li className="nav-item"><a href="#covid-clearance" onClick={toggleMenu}>COVID Clearance</a></li>
-                    <li className="nav-item"><a href="#flights" onClick={toggleMenu}>Flying</a></li>
-                    <li className="nav-item"><a href="#housing" onClick={toggleMenu}>Housing</a></li>
-                    <li className="nav-item"><a href="#food" onClick={toggleMenu}>Food</a></li>
-                    <li className="nav-item"><a href="#transportation" onClick={toggleMenu}>Transportation within HK</a></li>
-                    <li className="nav-item"><a href="#money" onClick={toggleMenu}>Money/Banking</a></li>
-                    <li className="nav-item"><a href="#communication" onClick={toggleMenu}>Communication</a></li>
-                    <li className="nav-item"><a href="#health" onClick={toggleMenu}>Health Care</a></li>
-                    <li className="nav-item"><a href="#performance" onClick={toggleMenu}>Performance</a></li>
-                    <li className="nav-item"><a href="#costume-HMU" onClick={toggleMenu}>Costumes, Hair, Makeup</a></li>
-                    <li className="nav-item"><a href="#leisure" onClick={toggleMenu}>Leisure/Time Off</a></li>
-                    <li className="nav-item"><a href="#packing" onClick={toggleMenu}>Packing</a></li>
-                </ul>
             </div>
         </>
         

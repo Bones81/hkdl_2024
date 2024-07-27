@@ -3,9 +3,9 @@ import './footer.css'
 const Footer = () => {
     return (
         <footer id='footer'>
-            <h3>
-                Click on the hamburger menu in the upper right portion of the window
-                to quickly navigate between sections of this site! &#8599;
+            <h3 id="burger-info">
+                Use the hamburger menu in the upper right corner
+                to visit different sections of the site! &#8599;
             </h3>
             <h2>This site is still being updated for 2024! Check back later for additional updates.</h2>
             <div className="footer-img-grid">
@@ -26,9 +26,9 @@ const Footer = () => {
             </div>
             
             
-            <h3>Only because it was requested, here are the Disney <em>acappella</em> parodies I put together in the first months of the pandemic:</h3> 
+            {/* <h3>Only because it was requested, here are the Disney <em>acappella</em> parodies I put together in the first months of the pandemic:</h3> 
             <iframe width="560" height="315" src="https://www.youtube.com/embed/a_XCrClEFvE" frameorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen title='Disney parody video Social Distance'></iframe>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/ljtlm2LYiLo" frameorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen title='Disney parody video Best If You Stay Home'></iframe>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/ljtlm2LYiLo" frameorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen title='Disney parody video Best If You Stay Home'></iframe> */}
         </footer>
     )
 }

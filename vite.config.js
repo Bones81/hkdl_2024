@@ -9,7 +9,7 @@ export default defineConfig(({ command }) => {
   };
 
   if (command !== "serve") {
-    config.base = "/hkdl_2024/";
+    config.base = "https://bones81.github.io/hkdl_2024/";
   }
 
   return config;

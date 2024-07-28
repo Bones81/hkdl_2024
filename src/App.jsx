@@ -1,6 +1,6 @@
 // CSS
 import './App.css'
-import { BrowserRouter as Router, Route, Routes, Link, BrowserRouter } from 'react-router-dom';
+import { Route, Routes, Link, BrowserRouter } from 'react-router-dom';
 
 //Component Imports
 import Header from './components/header/header'

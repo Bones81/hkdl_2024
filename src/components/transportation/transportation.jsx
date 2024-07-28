@@ -8,7 +8,7 @@ const Transportation = () => {
         </h2>
         <img
           className="list-pic"
-          src="assets/HK street scene.jpg"
+          src="./assets/HK street scene.jpg"
           alt="HK street scene"
         />
         <p className="img-caption">Red mini-buses in Mong Kok</p>
@@ -159,7 +159,7 @@ const Transportation = () => {
           far away from your intended path to find a crosswalk.
         </p>
         <img
-          src="assets/Footbridge Help.jpg"
+          src="./assets/Footbridge Help.jpg"
           id="footbridge"
           alt="footbridge"
         />

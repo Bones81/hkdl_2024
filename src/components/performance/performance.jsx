@@ -68,14 +68,14 @@ const Performance = () => {
           several other versions on YouTube as well.
         </p>
         <img
-          src="assets/tree_lighting_2020.jpeg"
+          src="./assets/tree_lighting_2020.jpeg"
           className="list-pic"
           alt="Tree Lighting 2020"
           loading="lazy"
         />
         <p className="img-caption">Tree Lighting ceremony in 2020</p>
         <img
-          src="assets/tree_lighting_2020_b.jpeg"
+          src="./assets/tree_lighting_2020_b.jpeg"
           className="list-pic"
           alt="Tree Lighting 2020"
           loading="lazy"
@@ -97,7 +97,7 @@ const Performance = () => {
           preload="none"
           poster="https://i.imgur.com/PzE8Kb9.jpg"
         >
-          <source src="assets/Sleigh Ride Main Street.mp4" type="video/mp4" />
+          <source src="./assets/Sleigh Ride Main Street.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
         <p>
@@ -112,7 +112,7 @@ const Performance = () => {
           preload="none"
           poster="https://i.imgur.com/XuuTQfe.jpg"
         >
-          <source src="assets/Holly_Ivy_2022.mov" type="video/mp4" />
+          <source src="./assets/Holly_Ivy_2022.mov" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
         <p>
@@ -130,7 +130,7 @@ const Performance = () => {
           preload="none"
           poster="https://i.imgur.com/yvgOzhz.jpg"
         >
-          <source src="assets/Hark_FL.mov" type="video/mp4" />
+          <source src="./assets/Hark_FL.mov" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
         <p>
@@ -143,7 +143,7 @@ const Performance = () => {
         </p>
         <img
           className="list-pic"
-          src="assets/balcony_set_2020.jpeg"
+          src="./assets/balcony_set_2020.jpeg"
           alt="balcony set 2020"
           loading="lazy"
         />
@@ -159,7 +159,7 @@ const Performance = () => {
           poster="https://i.imgur.com/5oMrFwP.jpg"
         >
           <source
-            src="assets/Hi To You - Intro at Hotel.m4v"
+            src="./assets/Hi To You - Intro at Hotel.m4v"
             type="video/mp4"
           />
           Your browser does not support the video tag.
@@ -177,7 +177,7 @@ const Performance = () => {
           preload="none"
           poster="https://i.imgur.com/umR4ruR.jpg"
         >
-          <source src="assets/I'll Be Home Hotel 2016.mp4" type="video/mp4" />
+          <source src="./assets/I'll Be Home Hotel 2016.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
         <h3>Quartets</h3>
@@ -185,14 +185,14 @@ const Performance = () => {
           <img
             className="list-pic"
             id="hotel-set-2016"
-            src="assets/Xmastime Ball 2017.jpg"
+            src="./assets/Xmastime Ball 2017.jpg"
             alt="castle show"
 
           />
           <img
             className="list-pic"
             id="HK-MS-2016"
-            src="assets/HK Main Street 2016 Carolers.jpg"
+            src="./assets/HK Main Street 2016 Carolers.jpg"
             alt="main street show"
 
           />
@@ -474,19 +474,19 @@ const Performance = () => {
         <h4>Photo Moment</h4>
         <img
           className="photo-moment"
-          src="assets/Photo Moment 2016.jpg"
+          src="./assets/Photo Moment 2016.jpg"
           alt="fan moment"
           loading="lazy"
         />
         <img
           className="photo-moment"
-          src="assets/Photo Moment.jpg"
+          src="./assets/Photo Moment.jpg"
           alt="fan moment"
           loading="lazy"
         />
         <img
           className="photo-moment"
-          src="assets/Caroler Photo Moment.jpg"
+          src="./assets/Caroler Photo Moment.jpg"
           alt="fan moment"
           loading="lazy"
         />
@@ -632,7 +632,7 @@ const Performance = () => {
               height="280"
             >
               <source
-                src="assets/All_I_Want_FL.mp4#t=30,55"
+                src="./assets/All_I_Want_FL.mp4#t=30,55"
                 type="video/mp4"
               />
               Your browser does not support the video tag.
@@ -672,7 +672,7 @@ const Performance = () => {
               preload="none"
               poster="https://i.imgur.com/KQ2rGCw.jpg"
             >
-              <source src="assets/Hi_To_You.mov#t=35" type="video/mp4" />
+              <source src="./assets/Hi_To_You.mov#t=35" type="video/mp4" />
               Your browser does not support the video tag.
             </video>
             <p className="img-caption">Hi To You in Fantasyland, 2022</p>
@@ -688,7 +688,7 @@ const Performance = () => {
               preload="none"
               poster="https://i.imgur.com/ymWZvpr.jpg"
             >
-              <source src="assets/Holly_Jolly_DLH.mp4" type="video/mp4" />
+              <source src="./assets/Holly_Jolly_DLH.mp4" type="video/mp4" />
               Your browser does not support the video tag.
             </video>
             <p className="img-caption">Holly Jolly at DLH, 2020</p>
@@ -704,7 +704,7 @@ const Performance = () => {
               poster="https://i.imgur.com/EiAQVGa.jpg"
             >
               <source
-                src="assets/Here We Come A'Caroling 2017.mp4#t=20,29"
+                src="./assets/Here We Come A'Caroling 2017.mp4#t=20,29"
                 type="video/mp4"
               />
               Your browser does not support the video tag.
@@ -724,7 +724,7 @@ const Performance = () => {
               preload="none"
               poster="https://i.imgur.com/NLy15b2.jpg"
             >
-              <source src="assets/I_Saw_Mommy_FL.mov#t=35" type="video/mp4" />
+              <source src="./assets/I_Saw_Mommy_FL.mov#t=35" type="video/mp4" />
               Your browser does not support the video tag.
             </video>
             <p className="img-caption">
@@ -746,7 +746,7 @@ const Performance = () => {
               preload="none"
               poster="https://i.imgur.com/rdf6tyd.jpg"
             >
-              <source src="assets/JBR_FL.mp4" type="video/mp4" />
+              <source src="./assets/JBR_FL.mp4" type="video/mp4" />
               Your browser does not support the video tag.
             </video>
             <p className="img-caption">Jingle Bell Rock in Fantasyland, 2022</p>
@@ -765,7 +765,7 @@ const Performance = () => {
               poster="https://i.imgur.com/L5B7F4x.jpg"
             >
               <source
-                src="assets/Xmas_Cabaret_2016.mov#t=0,70"
+                src="./assets/Xmas_Cabaret_2016.mov#t=0,70"
                 type="video/mp4"
               />
               Your browser does not support the video tag.
@@ -791,7 +791,7 @@ const Performance = () => {
               preload="none"
               poster="https://i.imgur.com/Y70ryoi.jpg"
             >
-              <source src="assets/Rockin_FL.mp4#t=60,85" type="video/mp4" />
+              <source src="./assets/Rockin_FL.mp4#t=60,85" type="video/mp4" />
               Your browser does not support the video tag.
             </video>
             <p className="img-caption">
@@ -810,7 +810,7 @@ const Performance = () => {
               preload="none"
               poster="https://i.imgur.com/c05TeNZ.jpg"
             >
-              <source src="assets/Rudolph_MS.mov#t=40" type="video/mp4" />
+              <source src="./assets/Rudolph_MS.mov#t=40" type="video/mp4" />
               Your browser does not support the video tag.
             </video>
             <p className="img-caption">Rudolph at the Blue House, 2022</p>
@@ -827,7 +827,7 @@ const Performance = () => {
               preload="none"
               poster="https://i.imgur.com/XbVBJnM.jpg"
             >
-              <source src="assets/Santa_Goofy_2018.mp4" type="video/mp4" />
+              <source src="./assets/Santa_Goofy_2018.mp4" type="video/mp4" />
               Your browser does not support the video tag.
             </video>
             <p className="img-caption">
@@ -851,7 +851,7 @@ const Performance = () => {
               poster="https://i.imgur.com/czQFpji.jpg"
             >
               <source
-                src="assets/Housetop_MS_alternate.mp4#t=10"
+                src="./assets/Housetop_MS_alternate.mp4#t=10"
                 type="video/mp4"
               />
               Your browser does not support the video tag.

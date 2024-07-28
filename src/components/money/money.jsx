@@ -58,7 +58,7 @@ const Money = () => {
           gorgeous HK$10 bills (about US$1.27, for reference)
         </p>
         <img
-          src="assets/HKD 10 Bill.jpg"
+          src="./assets/HKD 10 Bill.jpg"
           id="HKD10bill"
           alt="A Hong Kong Ten Dollar Bill"
         />
@@ -110,7 +110,7 @@ const Money = () => {
         </p>
         <img
           id="unionpaylogo"
-          src="assets/400px-UnionPay_logo.svg.png"
+          src="./assets/400px-UnionPay_logo.svg.png"
           alt="union pay logo"
         />
         <p className="img-caption">The UnionPay logo.</p>

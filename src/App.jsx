@@ -23,7 +23,6 @@ import Footer from './components/footer/footer'
 import PageNotFound from './components/page_not_found';
 
 const App = () => {
-
   return (
     <Router>
       <div>

@@ -3,7 +3,7 @@ const FTF = () => {
       <section id="top">
         <div className="img-holder">
           <img
-            src="assets/TreeLighting2017allfour.jpg"
+            src="./assets/TreeLighting2017allfour.jpg"
             alt="2017 carolers performing tree lighting"
           />
         </div>

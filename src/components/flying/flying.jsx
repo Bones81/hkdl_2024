@@ -5,33 +5,19 @@ const Flying = () => {
         <h3>Flight info</h3>
         <p>
           HKDL has historically waited until the last week -- and sometimes even
-          the last 72 hours -- to give us our flight information. It may feel a
+          the last 48-72 hours -- to give us our flight information. It may feel a
           bit nerve-wracking to be inching closer to the flight date without any
           itinerary, but just know the flight info will show up!
         </p>
         <p>
-          Because HK Disney has indicated the two groups will have different
-          contract start dates, and because our flights are usually 1-2 days
-          before the contract start date, the following scenario is likely:
+          I believe all 12 of us have the same contract start date, Monday, October 28th. Our flights will very likely be scheduled for Saturday, October 26th. Historically, they try to have everyone arrive in Hong Kong in the mid-afternoon/evening of the night before your contract officially begins. For us that means, we will likely all arrive in Hong Kong in the mid-afternoon/evening on Sunday, October 27th. 
         </p>
-        <ul>
-          <li>
-            Group 1 (Katie, Emilia, Nathan, Sean): Flight date Oct 28 or 29,
-            contract start Oct 30.
-          </li>
-          <li>
-            Group 2 (Sarah, Chelsea, Omar, Johnny): Flight date Nov 4 or 5,
-            contract start Nov 6.
-          </li>
-        </ul>
         <p>
-          During the pandemic contracts, they were careful to connect all of us
+          In recent years, they were careful to connect all of us
           to the same Hong Kong flight, even though we come from all over the
-          US. However, now that pandemic precautions are ended, I suspect
-          they'll go back to the old system, where they would just have the
-          group arrive to Hong Kong within a couple hours of each other and have
+          US. However, I suspect they may go back to the old system, where they would just have all of us arrive in Hong Kong within a couple hours of each other and have
           Irene or someone from HR greet us in the airport arrivals hall, give
-          us a welcome packet, and then set us up with taxis to HPRC. They would
+          us a welcome packet, and then set us up with taxis to our hotel. They would
           often time our arrival with additional expat face characters also
           starting their contracts. They'll let us know the plan, but it may not
           be until the week we are scheduled to depart.
@@ -45,7 +31,7 @@ const Flying = () => {
         </p>
         <img
           className="list-pic"
-          src="assets/flight_itinerary.jpg"
+          src="./assets/flight_itinerary.jpg"
         />
         <h3>Baggage</h3>
         <p>

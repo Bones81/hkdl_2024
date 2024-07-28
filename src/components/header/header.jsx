@@ -30,7 +30,7 @@ const Header = () => {
             <div className="menu">
                 <nav>
                     <ul id="navbar"> 
-                        <li className="nav-item"><Link to="/" onClick={toggleMenu}>FTF</Link></li>
+                        <li className="nav-item"><Link to="/" onClick={toggleMenu}>First Things First</Link></li>
                         <li className="nav-item"><Link to="/documents" onClick={toggleMenu}>Documents</Link></li>
                         <li className="nav-item"><Link to="/covid" onClick={toggleMenu}>Covid</Link></li>
                         <li className="nav-item"><Link to="/flying" onClick={toggleMenu}>Flying</Link></li>
@@ -42,7 +42,7 @@ const Header = () => {
                         <li className="nav-item"><Link to="/communication" onClick={toggleMenu}>Communication</Link></li>
                         <li className="nav-item"><Link to="/health" onClick={toggleMenu}>Health</Link></li>
                         <li className="nav-item"><Link to="/performance" onClick={toggleMenu}>Performance</Link></li>
-                        <li className="nav-item"><Link to="/costumes-hmu" onClick={toggleMenu}>Costumes, Hair/Makeup</Link></li>
+                        <li className="nav-item"><Link to="/costumes-hmu" onClick={toggleMenu}>Costumes, Hair, Makeup</Link></li>
                         <li className="nav-item"><Link to="/leisure" onClick={toggleMenu}>Leisure</Link></li>
                         <li className="nav-item"><Link to="/packing" onClick={toggleMenu}>Packing</Link></li>
                         <li className="nav-item"><Link to="/just-for-fun" onClick={toggleMenu}>Just For Fun</Link></li>

@@ -18,9 +18,9 @@ footer img {
     text-align: center;
     margin: 1em auto;
     max-width: 30%;
-    border: 5px dashed red;
+    border: 10px dotted red;
     border-radius: 50px;
-    animation: border-change 2s infinite ease-in-out
+    animation: border-change 1s infinite ease-in-out
 }
 
 @keyframes border-change {

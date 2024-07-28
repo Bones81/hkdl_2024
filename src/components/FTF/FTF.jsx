@@ -1,18 +1,4 @@
-import React, { useEffect } from 'react';
-import { useLocation, Link } from 'react-router-dom';
-
 const FTF = () => {
-    const location = useLocation();
-
-    useEffect(() => {
-      if (location.hash) {
-        const element = document.querySelector(location.hash);
-        if (element) {
-          element.scrollIntoView({ behavior: 'smooth' });
-        }
-      }
-    }, [location]);
-
     return (
       <section id="top">
         <div className="img-holder">
@@ -26,8 +12,6 @@ const FTF = () => {
           <br />
           <br />
           Latest changes, 7/27/24: First 2024 update!
-          <br />
-          <br />
         </h2>
         <h2 className="section-title" id="first">
           First Things First

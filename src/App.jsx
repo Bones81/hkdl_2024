@@ -1,6 +1,6 @@
 // CSS
 import './App.css'
-import { Route, Routes, Link, BrowserRouter } from 'react-router-dom';
+import { Route, Routes, Link, BrowserRouter as Router } from 'react-router-dom';
 
 //Component Imports
 import Header from './components/header/header'
@@ -24,7 +24,7 @@ import PageNotFound from './components/page_not_found';
 
 const App = () => {
   return (
-    <BrowserRouter basename={import.meta.env.DEV ? '/' : '/hdkl_2024/'}>
+    <Router basename={import.meta.env.DEV ? '/' : '/hdkl_2024/'}>
       <div>
         <div id='tree-background'></div>
         <Header />
@@ -50,7 +50,7 @@ const App = () => {
         <Footer />
       </div>
 
-    </BrowserRouter>
+    </Router>
   )
 }
 

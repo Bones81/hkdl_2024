@@ -31,7 +31,7 @@ const Flying = () => {
         </p>
         <img
           className="list-pic"
-          src="./assets/flight_itinerary.jpg"
+          src="assets/flight_itinerary.jpg"
         />
         <h3>Baggage</h3>
         <p>

@@ -54,7 +54,7 @@ const Food = () => {
         </p>
         <img
           id="fish-breakfast"
-          src="./assets/Fish Breakfast.jpg"
+          src="assets/Fish Breakfast.jpg"
           alt="fish breakfast"
         />
         <p class="img-caption">
@@ -74,7 +74,7 @@ const Food = () => {
         </p>
         <img
           class="list-pic"
-          src="./assets/Dim Sum.jpg"
+          src="assets/Dim Sum.jpg"
           alt="dim sum"
         />
         <p class="img-caption">Dim sum spread at Dim Dim Sum.</p>
@@ -86,7 +86,7 @@ const Food = () => {
         </p>
         <img
           class="list-pic"
-          src="./assets/Chinese Menu Weird Items.jpg"
+          src="assets/Chinese Menu Weird Items.jpg"
           alt="food menu with strange items"
         />
         <p class="img-caption">

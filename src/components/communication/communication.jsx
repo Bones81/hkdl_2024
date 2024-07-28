@@ -21,6 +21,7 @@ const Communication = () => {
                     <li>City Mapper. A great app that is often easier to use than Apple or Google Maps. Will help you navigate the city's complex public transit system like a pro.</li>
                     <li>Eventually, you may want to download our bank's mobile banking app, SCHK Mobile.</li>
                     <li>At some point during rehearsals, we will be guided through signing up for KronosMobile, Disney's HR app. It will enable you to see your advance schedule and figure out whether you forgot to clock in/clock out (not that that EVER happens, ahem).</li>
+                    <li>An important app we will need to submit reimbursements is called SAP Concur (and it is not intuitive; definitely don't try to do anything with it until we get to Disney and have some guidance).</li>
                 </ul>
             <h3>VPNs - do you need one?</h3>
                 <p>For the most part, our wifi and internet access has been fairly solid in HK, both at our hotel and at Disney. That said, it is potentially a very useful investment to have a VPN on your device(s).</p>

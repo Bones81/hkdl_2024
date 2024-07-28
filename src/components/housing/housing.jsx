@@ -11,7 +11,7 @@ const Housing = () => {
         </h3>
         <img
           id="HPRC-lobby"
-          src="./assets/HPRC lobby.jpg"
+          src="assets/HPRC lobby.jpg"
           alt="The lobby of HPRC"
         />
         <p className="img-caption">The lobby of our HK home, HPRC.</p>
@@ -38,7 +38,7 @@ const Housing = () => {
         </p>
         <img
           id="viewfromHPRC"
-          src="./assets/viewfromHPRC.jpg"
+          src="assets/viewfromHPRC.jpg"
           alt="The view from a room at Harbour Plaza Resort City"
         />
         <p className="img-caption">
@@ -54,7 +54,7 @@ const Housing = () => {
           height="500"
           controls
         >
-          <source src="././assets/HPRC room first look.m4v" type="video/mp4" />
+          <source src="assets/HPRC room first look.m4v" type="video/mp4" />
           Your browswer does not support the video tag.
         </video>
         <p className="img-caption">

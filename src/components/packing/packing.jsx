@@ -149,7 +149,7 @@ const Packing = () => {
         </p>
         <img
           id="outlet-plug"
-          src="./assets/UK-outlet-plug.jpg"
+          src="assets/UK-outlet-plug.jpg"
           alt="HK/UK-standard electrical outlets and plugs"
         />
         <p className="img-caption">

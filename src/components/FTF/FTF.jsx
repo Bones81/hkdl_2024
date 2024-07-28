@@ -3,7 +3,7 @@ const FTF = () => {
       <section id="top">
         <div className="img-holder">
           <img
-            src="../src/assets/TreeLighting2017allfour.jpg"
+            src="assets/TreeLighting2017allfour.jpg"
             alt="2017 carolers performing tree lighting"
           />
         </div>
@@ -45,9 +45,9 @@ const FTF = () => {
         </h3>
         <h4 className="special-note">
           <em>
-            <b>To be clear</b>
+            <b>MASSIVE DISCLAIMER</b>
           </em>
-          , this site is in no way an official Disney or Goode Time resource or
+          : this site is in no way an official Disney or Goode Time resource or
           stamped with anyone's seal of approval. It is merely an attempt by
           previous HKDL carolers to consolidate and digest the massive amount of
           information and advice we receive related to this contract. If this

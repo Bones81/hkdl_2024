@@ -7,12 +7,12 @@ const Leisure = () => {
         <div className="leisure">
           <img
             className="list-pic"
-            src="../src/assets/Morganswirlchair.jpg"
+            src="assets/Morganswirlchair.jpg"
             alt="Morgan in a novelty swirling chair"
           />
           <img
             className="list-pic"
-            src="../src/assets/daipaidong2018.jpg"
+            src="assets/daipaidong2018.jpg"
             alt="dai pai dong meal with friends"
           />
         </div>
@@ -36,14 +36,14 @@ const Leisure = () => {
           <li>The Big Buddha and the Ngong Ping 360 gondola ride</li>
           <img
             className="list-pic"
-            src="../src/assets/Big Buddha.jpg"
+            src="assets/Big Buddha.jpg"
             alt="big buddha"
           />
           <p className="img-caption">The Tian Tan (aka "Big") Buddha</p>
           <li>Victoria Peak/Peak Tram</li>
           <img
             className="list-pic"
-            src="../src/assets/Victoria Peak Lookout Daytime.jpg"
+            src="assets/Victoria Peak Lookout Daytime.jpg"
             alt="victoria peak lookout"
           />
           <p className="img-caption">
@@ -53,7 +53,7 @@ const Leisure = () => {
           <li>Symphony of Lights at Victoria Harbour</li>
           <img
             className="list-pic"
-            src="../src/assets/Symphony of Lights.jpg"
+            src="assets/Symphony of Lights.jpg"
             alt="symphony of lights"
           />
           <p className="img-caption">The Symphony of Lights</p>
@@ -63,21 +63,21 @@ const Leisure = () => {
           <li>Chi Lin Nunnery/Nan Lian Gardens</li>
           <img
             className="list-pic"
-            src="../src/assets/chilinnunnery.jpg"
+            src="assets/chilinnunnery.jpg"
             alt="chi lin nunnery"
           />
           <p className="img-caption">The Chi Lin Nunnery</p>
           <li>Wong Tai Sin Sik Sik Yuen Temple</li>
           <img
             className="list-pic"
-            src="../src/assets/Wong Tai Sin Temple.jpg"
+            src="assets/Wong Tai Sin Temple.jpg"
             alt="wong tai sin temple"
           />
           <p className="img-caption">Wong Tai Sin Sik Sik Yuen temple</p>
           <li>TST Promenade/Bruce Lee Statue</li>
           <img
             className="list-pic"
-            src="../src/assets/Bruce Lee poser.jpg"
+            src="assets/Bruce Lee poser.jpg"
             alt="bruce lee statue and poser"
           />
           <p className="img-caption">Bruce Lee Statue on the TST promenade</p>
@@ -85,7 +85,7 @@ const Leisure = () => {
           <li>High Tea at The Peninsula</li>
           <img
             className="list-pic"
-            src="../src/assets/Peninsula High Tea.jpg"
+            src="assets/Peninsula High Tea.jpg"
             alt="high tea at The Peninsula"
           />
           <p className="img-caption">
@@ -119,13 +119,13 @@ const Leisure = () => {
           </li>
           <img
             className="list-pic"
-            src="../src/assets/ocean_park.jpeg"
+            src="assets/ocean_park.jpeg"
             alt="ocean park"
           />
           <p className="img-caption">Entrance to Ocean Park</p>
           <img
             className="list-pic"
-            src="../src/assets/Ocean Park Panda.jpg"
+            src="assets/Ocean Park Panda.jpg"
             alt="ocean park panda"
           />
           <p className="img-caption">See Pandas at Ocean Park</p>
@@ -205,7 +205,7 @@ const Leisure = () => {
           </li>
           <img
             className="list-pic"
-            src="../src/assets/babas.jpeg"
+            src="assets/babas.jpeg"
             alt="babas station"
           />
           <p className="img-caption">2020 visit to Baba's Station</p>
@@ -230,7 +230,7 @@ const Leisure = () => {
           </li>
           <img
             className="list-pic"
-            src="../src/assets/La Creperie.jpg"
+            src="assets/La Creperie.jpg"
             alt="la creperie restaurant"
           />
           <p className="img-caption">
@@ -248,7 +248,7 @@ const Leisure = () => {
           <li>Ichiran - insanely delicious ramen in TST</li>
           <img
             className="list-pic"
-            src="../src/assets/ichiran.jpeg"
+            src="assets/ichiran.jpeg"
             alt="Nathan psyched for Ichiran ramen"
           />
           <p className="img-caption">Nathan psyched for Ichiran ramen</p>
@@ -258,7 +258,7 @@ const Leisure = () => {
           </li>
           <img
             className="list-pic"
-            src="../src/assets/divino_patio.jpeg"
+            src="assets/divino_patio.jpeg"
             alt="divino patio"
           />
           <p className="img-caption">An awesome carpaccio from Divino Patio</p>
@@ -292,7 +292,7 @@ const Leisure = () => {
           </li>
           <img
             className="list-pic"
-            src="../src/assets/ned_kellys_band.jpeg"
+            src="assets/ned_kellys_band.jpeg"
             alt="the band at Ned Kellys"
           />
           <p className="img-caption">
@@ -301,7 +301,7 @@ const Leisure = () => {
           </p>
           <img
             className="list-pic"
-            src="../src/assets/ColinPlus3_2022.jpeg"
+            src="assets/ColinPlus3_2022.jpeg"
             alt="the band at Ned Kellys"
           />
           <p className="img-caption">
@@ -314,7 +314,7 @@ const Leisure = () => {
           </li>
           <img
             className="list-pic"
-            src="../src/assets/Cool_Cocktails_Old_Man_2022.jpeg"
+            src="assets/Cool_Cocktails_Old_Man_2022.jpeg"
             alt="Old Man cocktail"
           />
           <p className="img-caption">
@@ -326,7 +326,7 @@ const Leisure = () => {
           </li>
           <img
             className="list-pic"
-            src="../src/assets/Ozone drinks 2016.jpg"
+            src="assets/Ozone drinks 2016.jpg"
             alt="drinks at the Ozone bar"
           />
           <p className="img-caption">
@@ -340,7 +340,7 @@ const Leisure = () => {
           <li>Lan Kwai Fong - the party district of HK</li>
           <img
             className="list-pic"
-            src="../src/assets/Gollum and Ladies.jpg"
+            src="assets/Gollum and Ladies.jpg"
             alt="Gollum and the ladies"
           />
           <p className="img-caption">
@@ -391,35 +391,35 @@ const Leisure = () => {
           <li>Dragon's Back</li>
           <img
             className="hiking-pic"
-            src="../src/assets/Dragon's Back view.jpg"
+            src="assets/Dragon's Back view.jpg"
             alt="Dragon\'s Back"
           />
           <p className="img-caption">One of the views from Dragon's Back</p>
           <li>Lantau Peak</li>
           <img
             className="hiking-pic"
-            src="../src/assets/Lantau Peak trail.jpg"
+            src="assets/Lantau Peak trail.jpg"
             alt="lantau peak trail"
           />
           <p className="img-caption">The Lantau Peak trail</p>
           <li>Victoria Peak</li>
           <img
             className="hiking-pic"
-            src="../src/assets/Victoria Peak walk view.jpg"
+            src="assets/Victoria Peak walk view.jpg"
             alt="Victoria Peak view"
           />
           <p className="img-caption">The view from atop Victoria Peak</p>
           <li>Lion Rock</li>
           <img
             id="sunset-peak-view"
-            src="../src/assets/Lion Rock View.jpg"
+            src="assets/Lion Rock View.jpg"
             alt="Lion Rock view"
           />
           <p className="img-caption">The view from Lion Rock</p>
           <li>Tai Tong - Sweet Gum Woods</li>
           <img
             className="hiking-pic"
-            src="../src/assets/Tai Tong Ancient Heritage Trail.jpg"
+            src="assets/Tai Tong Ancient Heritage Trail.jpg"
             alt="tai tong trail"
           />
           <p className="img-caption">
@@ -428,7 +428,7 @@ const Leisure = () => {
           <li>Sunset Peak</li>
           <img
             className="hiking-pic"
-            src="../src/assets/Hiking panorama.jpg"
+            src="assets/Hiking panorama.jpg"
             alt="hiking panorama"
           />
           <p className="img-caption">The view from Sunset Peak</p>
@@ -440,7 +440,7 @@ const Leisure = () => {
             preload="none"
             poster="https://i.imgur.com/63JASD7.jpg"
           >
-            <source src="../src/assets/Monkeys at Shing Mun.m4v" type="video/mp4" />
+            <source src="assets/Monkeys at Shing Mun.m4v" type="video/mp4" />
             Your browser does not support the video tag.
           </video>
           <p className="img-caption">
@@ -449,14 +449,14 @@ const Leisure = () => {
           <li>Ng Tung Chai, waterfalls!</li>
           <img
             className="hiking-pic"
-            src="../src/assets/NgTungChai_2022.jpeg"
+            src="assets/NgTungChai_2022.jpeg"
             alt="waterfall hike"
           />
           <p className="img-caption">One of the Ng Tung Chai wateralls</p>
           <li>Mui Wo, on Lantau Island</li>
           <img
             className="hiking-pic"
-            src="../src/assets/mui_wo_hike.jpeg"
+            src="assets/mui_wo_hike.jpeg"
             alt="Mui Wo hike"
           />
           <p className="img-caption">The Mui Wo hike view</p>
@@ -481,7 +481,7 @@ const Leisure = () => {
         </p>
         <img
           className="list-pic"
-          src="../src/assets/halloween_2020.jpeg"
+          src="assets/halloween_2020.jpeg"
           alt="Halloween 2020"
         />
         <p className="img-caption">The 2020 crew at Halloween.</p>
@@ -491,7 +491,7 @@ const Leisure = () => {
         <h4 className="holiday-title">Thanksgiving 🦃</h4>
         <img
           className="list-pic"
-          src="../src/assets/thanksgiving_2020.jpeg"
+          src="assets/thanksgiving_2020.jpeg"
           alt="Thanksgiving 2020"
         />
         <p className="img-caption">
@@ -505,7 +505,7 @@ const Leisure = () => {
         </p>
         <img
           className="list-pic"
-          src="../src/assets/Thanksgiving 2019.jpg"
+          src="assets/Thanksgiving 2019.jpg"
           alt="Thanksgiving 2019"
         />
         <p>

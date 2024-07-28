@@ -11,7 +11,7 @@ const Housing = () => {
         </h3>
         <img
           id="HPRC-lobby"
-          src="../src/assets/HPRC lobby.jpg"
+          src="assets/HPRC lobby.jpg"
           alt="The lobby of HPRC"
         />
         <p className="img-caption">The lobby of our HK home, HPRC.</p>
@@ -38,7 +38,7 @@ const Housing = () => {
         </p>
         <img
           id="viewfromHPRC"
-          src="../src/assets/viewfromHPRC.jpg"
+          src="assets/viewfromHPRC.jpg"
           alt="The view from a room at Harbour Plaza Resort City"
         />
         <p className="img-caption">

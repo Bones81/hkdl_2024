@@ -4,12 +4,12 @@ import react from '@vitejs/plugin-react-swc'
 // https://vitejs.dev/config/
 export default defineConfig(({ command }) => {
   const config = {
-    plugins: [react()],
     base: "/",
+    plugins: [react()],
   };
 
   if (command !== "serve") {
-    config.base = "https://bones81.github.io/hkdl_2024/";
+    config.base = "/hkdl_2024/";
   }
 
   return config;

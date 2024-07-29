@@ -2,7 +2,7 @@
   "name": "hkdl_2024",
   "private": true,
   "version": "0.0.0",
-  "homepage": "http://Bones81.github.io/hkdl_2024",
+  "homepage": "https://Bones81.github.io/hkdl_2024",
   "type": "module",
   "scripts": {
     "dev": "vite",
